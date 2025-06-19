@@ -1,1 +1,0 @@
-{"features": ["Hour_24", "Location_Type_Mixed Use", "Location_Type_Outdoor", "Location_Type_Public Building", "Location_Type_Retail", "Location_Type_Transport Hub", "Location_Type_Unknown", "Time_Period_Daytime", "Time_Period_Evening", "Time_Period_Evening Peak", "Time_Period_Morning Peak", "Time_Period_Night"], "model_type": "Random Forest", "r2_score": 0.31861333274706494}

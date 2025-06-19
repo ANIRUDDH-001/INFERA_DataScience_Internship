@@ -1,1 +1,0 @@
-{"features": ["Minimum temperature (\u00b0C)", "Maximum temperature (\u00b0C)", "Rainfall (mm)", "9am relative humidity (%)", "3pm relative humidity (%)", "Temperature_Range"], "model_type": "Linear Regression", "r2_score": 1.0}
